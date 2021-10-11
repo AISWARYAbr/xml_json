@@ -1,0 +1,32 @@
+<departments>
+
+<department1 name="Product">
+
+<employee>
+<name>Anu</name>
+<salary>30000</salary>
+</employee>
+
+<employee>
+<name>Aswathy</name>
+<salary>35000</salary>
+</employee>
+
+</department1>
+
+<department2 name="Gateway">
+
+<employee>
+<name>Rinu</name>
+<salary>38000</salary>
+</employee>
+
+<employee>
+<name>Chandu</name>
+<salary>48000</salary>
+</employee>
+
+</department2>
+
+
+</departments>
